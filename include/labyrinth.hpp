@@ -1,0 +1,3 @@
+struct labyrinth {};
+
+void descend();

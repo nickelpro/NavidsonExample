@@ -1,0 +1,10 @@
+{
+  "name": "navidson",
+  "version": "1.5.96",
+  "description": "This is not for you",
+  "homepage": "https://github.com/nickelpro/NavidsonExample",
+  "maintainers": [
+    "Johnny Truant <vito@gamberini.email>"
+  ],
+  "license": "CC0-1.0"
+}
